@@ -1,0 +1,13 @@
+---
+layout: post
+title: "OS PDF"
+date:   2020-01-22
+categories: jekyll update
+permalink: /:categories/:title
+---
+
+Berikut adalah file PDF yang digunakan pada perkuliahan OS :
+
+{% for file in site.static_files %}
+	{{ file.name }}
+{% endfor %}

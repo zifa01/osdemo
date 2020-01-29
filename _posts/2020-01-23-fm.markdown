@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Contoh"
+categories: jekyll update
+---
+
+Ini merupakan contoh post menggunakan default front matter
+
+{% for person in site.data.people %}
+	{{ person.name }}, {{ person.occupation }} <br>
+{% endfor %}
