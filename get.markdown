@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Get The EXTRA!"
-categories: page
 permalink: /get/
 ---
 
