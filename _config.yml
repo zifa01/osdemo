@@ -35,13 +35,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
-defaults:
-  -
-    scope:
-      path: ""
+#defaults:
+  #-
+   # scope:
+    #  path: ""
       #type: "posts"
-    values:
-      layout: "default"
+    #values:
+      #layout: "default"
 
 defaults:
   -
